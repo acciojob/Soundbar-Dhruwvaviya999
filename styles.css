@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+
+.buttons{
+	background-color:#a164df;
+	height:50vh;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	gap:10px;
+}
+
+.btn{
+	background-color:#663399;
+	height:40px;
+	width:80px;
+	color:white;
+	font-weight:bold;
+	border:none;
+	border-radius:5px;
+	cursor:pointer;
+	font-size:11px
+}
